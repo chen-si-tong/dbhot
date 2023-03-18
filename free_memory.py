@@ -4,4 +4,4 @@ def main():
 main()
 
 print("this is a vibe")
-print("this is a function")
+print("this is a function,revise the bug")
